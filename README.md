@@ -1,8 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I have used the edamam API to fetch the recipes of the app. The front-end was designed using some basic HTML and CSS.
 
 ## Available Scripts
 
-In the project directory, you can run:
+After cloning the project directory, you can run:
+
+## `npm install`
+
+## Available Scripts
+
+To run the app, use the command - 
 
 ### `npm start`
 
