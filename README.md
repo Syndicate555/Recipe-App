@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I have used the edamam API to fetch the recipes of the app. The front-end was designed using some basic HTML and CSS.
 
 ## Available Scripts
 
