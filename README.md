@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I have used the edamam API to fetch the recipes of the app. The front-end was designed using some basic HTML and CSS.
 
-Full deployed App here - https://gifted-roentgen-68a6ac.netlify.com/
+Full deployed App here - https://recipedistrict.netlify.com/
 
 ## Available Scripts
 
