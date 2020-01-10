@@ -6,7 +6,7 @@ Full deployed App here - https://recipedistrict.netlify.com/
 
 ## Available Scripts
 
-After cloning the project directory, you can run:
+After cloning the project directory, you must install it using the command:
 
 ## `npm install`
 
